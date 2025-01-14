@@ -32,7 +32,7 @@ export default function GraphCard({
 
             <div className="flex-col justify-between items-center gap-5 inline-flex w-full">
                 <div className="w-full h-[78px] relative flex flex-col items-center justify-between">
-                    <div className="w-6 h-3 left-[42.50px] top-0 absolute text-[#ff5151] text-[12px]">+{incrementPercentage}%</div>
+                    <div className="w-6 h-3 top-0 absolute text-[#ff5151] text-[12px]">+{incrementPercentage}%</div>
                     {/* <div className="w-6 h-3 left-[42.50px] top-0 absolute text-[#ff5151] text-[10px] font-medium font-['Rubik'] leading-normal">|</div> */}
 
                     <Image src={graph1} alt="" className="w-full  left-0 top-[10px] absolute  overflow-hidden" />
