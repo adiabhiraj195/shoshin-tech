@@ -1,9 +1,6 @@
-import Image from "next/image";
 import InfoCard from "@/components/info-card";
 import GraphCard from "@/components/graph-card";
 import { FaChevronDown } from "react-icons/fa";
-import { BsPinAngleFill } from "react-icons/bs";
-import { BsThreeDots } from "react-icons/bs";
 import NotificationCard from "@/components/notification-card";
 
 

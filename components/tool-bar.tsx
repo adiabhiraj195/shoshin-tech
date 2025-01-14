@@ -2,8 +2,6 @@
 import React, { useState } from 'react'
 import sIcon from "@/assets/search-icon.svg"
 import Image from 'next/image'
-import bellIcon from "@/assets/bell.svg"
-import msgIcon from "@/assets/messages-icon.svg"
 import profileImage from "@/assets/profile-img.png"
 import { AiFillNotification } from "react-icons/ai";
 import { RiMessage2Fill } from "react-icons/ri";
